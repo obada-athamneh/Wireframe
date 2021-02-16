@@ -1,0 +1,64 @@
+header{
+    background-color: darkcyan;
+    height: 100px;
+}
+header img {
+    position: relative;
+    top: 15px;
+    left: 80px;
+}
+header nav {
+    float: right;
+}
+header nav ul li {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 20px;
+    right: 700px;
+    font-size: 22px;
+}
+main img {
+    position: relative;
+    left: 80px;
+    top: 30px;
+}
+main div {
+    position: relative;
+    right: 14px;
+}
+main div img {
+
+margin: 13px;
+
+}
+h2 {
+    font-size: x-large;
+    
+}
+main article  {
+   width: 470px;
+   height: 300px;
+   position: relative;
+   float: right;
+   right: 450px;
+   bottom: 350px;
+   overflow-y: scroll;
+}
+main button {
+    width: 150px;
+    height: 30px;
+    position: relative;
+    float: right;
+    right: 300px;
+    bottom: 10px;
+
+}
+
+footer {
+   background-color:darkcyan ;
+    height: 200px;
+    /* position: relative; */
+    margin-top: 45px;
+  /* top: 50px; */
+}
